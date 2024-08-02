@@ -19,7 +19,7 @@ import p1hist from './p1hist.png';
 
 function App() {
   return (
-    <Router>
+
       <div className="min-h-screen bg-[#f5f5f8]">
         {/* Header and name */}
         <header className="bg-white shadow-md rounded-[30px] p-6 mt-10 mb-6 mx-4">
@@ -540,7 +540,7 @@ function App() {
           </div>
         </main>
       </div >
-    </Router >
+   
   );
 }
 
