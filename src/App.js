@@ -1,8 +1,5 @@
 import React from 'react';
 import './App.css';
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
-import { NavLink } from 'react-router-dom';
-import lumenPic from './lumenpic.png';
 import logo from './logo0.png';
 import bot1 from './bot1.png';
 import profile from './profile.png';
@@ -10,16 +7,14 @@ import tesla from './tesla.png';
 import apple from './apple.png';
 import x from './x.png';
 import kfatmseclog from './kfckumlogo.png';
-import { Chart } from 'chart.js';
 import ApexChart from './components/ApexChart';
 import bot4 from './bot (4).png';
 import bot2 from './bot (2).png';
 import bot3 from './bot (3).png';
 import nike from './nike.png';
-import applehist from './applehistory.png';
 import playstation from './playstation.png';
 import p1hist from './p1hist.png';
-import p2hist from './p2hist.png';
+
 
 
 function App() {
